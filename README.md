@@ -73,7 +73,7 @@ node main
 ```
 
 ## Edit file
-- Change ownerNumber on [this section](https://github.com/zeeoneofc/aAlphabot-Md/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L2)
+- Change ownerNumber on [this section](https://github.com/Nisakepo/Alphabot-MD/blob/67189736b7321a37ac09e6fc406690b9d49322de/settings.js#L26)
 - Change botName on [this section](https://github.com/zeeoneofc/Alphabot-Md/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L3)
 - You can edit list and display menu or donate on [this section](https://github.com/zeeoneofc/Alphabot-Md/blob/main/help/ind.js)
 - You can add fiture on [this section](https://github.com/zeeoneofc/Alphabot-Md/tree/main/message)
